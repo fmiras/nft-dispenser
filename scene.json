@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "nft-dispenser"
+  },
+  "contact": {
+    "name": "Nacho y Fefo ❤️"
+  },
+  "main": "bin/game.js",
+  "tags": ["cryptokitties", "smart contracts", "dapp"],
+  "scene": {
+    "parcels": ["12,-40"],
+    "base": "12,-40"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  }
+}
